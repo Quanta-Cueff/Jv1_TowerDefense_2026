@@ -48,6 +48,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5068101206614994987, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
+      propertyPath: mobse
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5068101206614994987, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
+      propertyPath: mobse.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5068101206614994987, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
+      propertyPath: 'mobse.Array.data[0]'
+      value: 
+      objectReference: {fileID: 8780096386788723637, guid: 4619f3dd645720346b7f85a12b123d80, type: 3}
+    - target: {fileID: 5068101206614994987, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
+      propertyPath: 'mobse.Array.data[1]'
+      value: 
+      objectReference: {fileID: 7847340711133858524}
     - target: {fileID: 6869954312795074333, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
       propertyPath: m_Name
       value: Enemy Variant 1
@@ -69,3 +85,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
+--- !u!1 &7847340711133858524 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6869954312795074333, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
+  m_PrefabInstance: {fileID: 3724936213820892609}
+  m_PrefabAsset: {fileID: 0}

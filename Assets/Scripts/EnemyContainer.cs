@@ -19,6 +19,7 @@ public class EnemyContainer : MonoBehaviour
         mySplineAnimate.Container = FindFirstObjectByType<SplineContainer>();
         mySplineAnimate.Duration = timeToPath + Random.Range(-3,3);
         mySplineAnimate.Play();
+
     }
 
     // Update is called once per frame

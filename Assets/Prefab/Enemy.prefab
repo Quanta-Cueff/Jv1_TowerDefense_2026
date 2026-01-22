@@ -145,6 +145,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentHP: 0
   maxHP: 0
+  mobse:
+  - {fileID: 5607484920716606178, guid: 7a4cbc954e572404e853014663dfba66, type: 3}
+  - {fileID: 7847340711133858524, guid: c08963e3053946e4293aa84a01cabf1a, type: 3}
+  - {fileID: 6869954312795074333}
 --- !u!114 &5904849984569411636
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -48,6 +48,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5068101206614994987, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
+      propertyPath: mobse.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5068101206614994987, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
+      propertyPath: 'mobse.Array.data[0]'
+      value: 
+      objectReference: {fileID: 7847340711133858524, guid: c08963e3053946e4293aa84a01cabf1a, type: 3}
+    - target: {fileID: 5068101206614994987, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
+      propertyPath: 'mobse.Array.data[1]'
+      value: 
+      objectReference: {fileID: 5607484920716606178, guid: 7a4cbc954e572404e853014663dfba66, type: 3}
+    - target: {fileID: 5068101206614994987, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
+      propertyPath: 'mobse.Array.data[2]'
+      value: 
+      objectReference: {fileID: 6869954312795074333, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
+    - target: {fileID: 5068101206614994987, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
+      propertyPath: 'mobse.Array.data[3]'
+      value: 
+      objectReference: {fileID: 4666067931170708268}
     - target: {fileID: 6869954312795074333, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
       propertyPath: m_Name
       value: Enemy Variant 2
@@ -69,3 +89,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
+--- !u!1 &4666067931170708268 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6869954312795074333, guid: 8177b6a7613d5274ca60a9452ed12234, type: 3}
+  m_PrefabInstance: {fileID: 2276515749425427505}
+  m_PrefabAsset: {fileID: 0}
